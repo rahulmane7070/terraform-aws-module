@@ -1,1 +1,1 @@
-{"Modules":[{"Source":"./storage","Key":"1.storage;./storage","Version":"","Dir":".terraform/modules/a30b2bc6706429005b6554e65837ce43","Root":""}]}
+{"Modules":[{"Source":"./storage","Key":"1.storage;./storage","Version":"","Dir":".terraform/modules/a30b2bc6706429005b6554e65837ce43","Root":""},{"Source":"./networking","Key":"1.networking;./networking","Version":"","Dir":".terraform/modules/9292fa68c65354cc7d673ee0d5948996","Root":""}]}

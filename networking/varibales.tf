@@ -13,6 +13,6 @@ variable "public_cidrs" {
 
 variable "accessip" {
 
-default = "0.0.0.0./0"
+default = "0.0.0.0/0"
 
 }
